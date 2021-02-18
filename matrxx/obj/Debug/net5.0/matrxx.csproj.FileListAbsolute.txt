@@ -1,0 +1,16 @@
+C:\Users\Мухаммад\Documents\Projects\matrxx\bin\Debug\net5.0\matrxx.exe
+C:\Users\Мухаммад\Documents\Projects\matrxx\bin\Debug\net5.0\matrxx.deps.json
+C:\Users\Мухаммад\Documents\Projects\matrxx\bin\Debug\net5.0\matrxx.runtimeconfig.json
+C:\Users\Мухаммад\Documents\Projects\matrxx\bin\Debug\net5.0\matrxx.runtimeconfig.dev.json
+C:\Users\Мухаммад\Documents\Projects\matrxx\bin\Debug\net5.0\matrxx.dll
+C:\Users\Мухаммад\Documents\Projects\matrxx\bin\Debug\net5.0\ref\matrxx.dll
+C:\Users\Мухаммад\Documents\Projects\matrxx\bin\Debug\net5.0\matrxx.pdb
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.csprojAssemblyReference.cache
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.AssemblyInfo.cs
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.dll
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\ref\matrxx.dll
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.pdb
+C:\Users\Мухаммад\Documents\Projects\matrxx\obj\Debug\net5.0\matrxx.genruntimeconfig.cache
